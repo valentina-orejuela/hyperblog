@@ -1,2 +1,2 @@
 # hyperblog
-Un blog increible para el curso de git y github de platzi (los mejores)
+Un blog increible para el curso de git y github de platzi (los mejores) ok
